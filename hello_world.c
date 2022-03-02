@@ -3,4 +3,5 @@
 
 int main(){
 	printf("Hello world");
+	return 0;              -- 주석을 생성
 }
